@@ -1,0 +1,17 @@
+server:
+  port: 7001
+spring:
+  application:
+    name: jurisdiction-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8001/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
