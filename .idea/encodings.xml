@@ -3,9 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cooperation-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jurisdiction-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul-server" charset="UTF-8" />
   </component>
 </project>

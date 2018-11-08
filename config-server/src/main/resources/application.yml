@@ -1,0 +1,14 @@
+server:
+  port: 8005
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/tzhzsgxtc/Spring-cloud-config/
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8001/eureka/

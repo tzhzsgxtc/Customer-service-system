@@ -1,6 +1,6 @@
 spring:
   application:
-    name: service-zuul
+    name: zuul-service
 server:
   port: 8003
 eureka:
@@ -10,4 +10,4 @@ eureka:
 zuul:
   routes:
     jurisdiction-service:
-      paht: /jurisdiction-service/**
+      paht: /jurisdiction/**

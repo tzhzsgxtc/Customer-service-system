@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/attendantsystem.iml" filepath="$PROJECT_DIR$/attendantsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/cooperation-service/cooperation-service.iml" filepath="$PROJECT_DIR$/cooperation-service/cooperation-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/jurisdiction-service/jurisdiction-service.iml" filepath="$PROJECT_DIR$/jurisdiction-service/jurisdiction-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-server/turbine-server.iml" filepath="$PROJECT_DIR$/turbine-server/turbine-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
     </modules>
   </component>

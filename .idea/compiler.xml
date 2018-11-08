@@ -7,18 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="admin-server" />
+        <module name="config-server" />
         <module name="cooperation-service" />
         <module name="eureka-server" />
         <module name="jurisdiction-service" />
+        <module name="turbine-server" />
         <module name="zuul-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="admin-server" target="1.8" />
       <module name="attendantsystem" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="cooperation-service" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="jurisdiction-service" target="1.8" />
+      <module name="turbine-server" target="1.8" />
       <module name="zuul-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
